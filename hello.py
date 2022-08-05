@@ -1,3 +1,6 @@
 print("hello world!")
 
-print("branch1")
+for i in range(10):
+    print(i)
+
+print("branch12")
